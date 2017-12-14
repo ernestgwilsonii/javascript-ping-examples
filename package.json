@@ -1,0 +1,32 @@
+{
+  "name": "javascript-ping-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ping",
+    "working",
+    "examples"
+  ],
+  "author": {
+    "email": "ErnestGWilsonII@gmail.com",
+    "name": "Ernest G. Wilson II",
+    "url": "https://github.com/ernestgwilsonii"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ernestgwilsonii/javascript-ping-examples.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ernestgwilsonii/javascript-ping-examples/issues",
+    "email": "ErnestGWilsonII@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "net-ping": "^1.2.1"
+  }
+}
